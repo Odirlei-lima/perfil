@@ -1,2 +1,0 @@
-# perfil
-glauco-perfil
